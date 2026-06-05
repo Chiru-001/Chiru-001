@@ -76,7 +76,7 @@ An IoT-based Air Pollution Monitoring Device developed using Arduino and environ
 
 * GitHub: https://github.com/Chiru-001
 * Email: v.chiranjeevi002@gmail.com
-
+* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/chiranjeevi-velpula-058918317/)
 ---
 
 “Continuous learning and consistent practice lead to growth.”
